@@ -71,4 +71,7 @@ button:hover {
 
 input[type="text"] {
     font-size: inherit;
+    border: none;
+    margin-right: 10px;
+    border-radius: 0.5rem;
 }
