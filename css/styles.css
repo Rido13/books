@@ -75,4 +75,9 @@ input[type="text"] {
     border: none;
     margin-right: 10px;
     border-radius: 0.5rem;
+    width: 82px;
+    height: 20px;
+    padding: 9px 10px 9px 10px;
+    font-size: 15px;
+    align-self: center;
 }
