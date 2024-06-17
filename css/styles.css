@@ -1,3 +1,5 @@
+/* Основной стиль */
+
 body {
     font-family: 'Inter', sans-serif;
     margin: 0;
@@ -5,7 +7,7 @@ body {
 }
 
 header {
-    background-color: #e7e7e7;
+    background-color: #cccccc18;
     color: #fff;
     padding: 1rem;
     display: flex;
@@ -18,7 +20,6 @@ h1 {
     justify-content: center;
     color: #642222;
     margin: auto;
-
 }
 
 button {
@@ -40,7 +41,6 @@ button:hover {
     display: grid;
     grid-template-columns: repeat(5, 1fr);
     gap: 10px;
-    margin-top: 10px;
 }
 
 .product-card {
@@ -49,6 +49,7 @@ button:hover {
     border: 1px solid #ddd;
     border-radius: 0.25rem;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-decoration: none;
 }
 
 .product-card img {
@@ -68,6 +69,7 @@ button:hover {
 .product-card p {
     font-size: 1rem;
     color: #666;
+    text-decoration: underline;;
 }
 
 input[type="text"] {
@@ -80,4 +82,57 @@ input[type="text"] {
     padding: 9px 10px 9px 10px;
     font-size: 15px;
     align-self: center;
+}
+
+/* Адаптивный дизайн для мобильных устройств */
+
+@media (max-width: 768px) {
+    .product-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    header {
+        flex-direction: column;
+        align-items: top;
+    }
+
+    h1 {
+        margin: 0.5rem 0;
+    }
+
+    button {
+        width: 100%;
+        padding: 1rem;
+        font-size: 20px;
+    }
+    input[type='text'] {
+        font-size: inherit;
+        border: none;
+        margin-right: 10px;
+        margin-bottom: 10px;
+        border-radius: 0.5rem;
+        width: 200px;
+        height: 20px;
+        padding: 9px 10px 9px 10px;
+        font-size: 15px;
+        align-self: center;
+        text-align: center;
+
+    }
+}
+
+/* Адаптивный дизайн для очень маленьких экранов */
+
+@media (max-width: 480px) {
+    .product-grid {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    header {
+        align-items: center;
+    }
+
+    button {
+        padding: 0.5rem;
+    }
 }
