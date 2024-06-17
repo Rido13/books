@@ -1,5 +1,5 @@
 async function loadProducts() {
-    const response = await fetch('products.json');
+    const response = await fetch('products/products.json');
     const products = await response.json();
     displayProducts(products);
 }
@@ -22,7 +22,7 @@ function displayProducts(products) {
 
 function searchProducts() {
     const query = document.getElementById('search').value.toLowerCase();
-    fetch('products.json')
+    fetch('products/products.json')
         .then(response => response.json())
         .then(products => {
             const filteredProducts = products.filter(product => product.title.toLowerCase().includes(query));
