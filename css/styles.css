@@ -41,6 +41,9 @@ button:hover {
     display: grid;
     grid-template-columns: repeat(5, 1fr);
     gap: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    
 }
 
 .product-card {
