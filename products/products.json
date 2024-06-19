@@ -12,7 +12,7 @@
         "price": "600руб"
     },
     {
-        "url": "https://www.avito.ru/user/4e59a43a162901520f0ac4612abc77bf/profile?src=fs&page_from=from_favorite_sellers",
+        "url": "https://www.avito.ru/ufa/knigi_i_zhurnaly/kniga_nikakih_kompromissov._kris_voss_4449990816",
         "img": "https://content.img-gorod.ru/pim/products/images/d9/e4/018f5e40-088f-7bab-8fb0-e888bf33d9e4.jpg?width=0&height=1200&fit=bounds",
         "title": "Никакаих компромисов",
         "price": "799руб"
@@ -24,7 +24,7 @@
         "price": "1199руб"
     },
     {
-        "url": "https://www.avito.ru/user/4e59a43a162901520f0ac4612abc77bf/profile?src=fs&page_from=from_favorite_sellers",
+        "url": "https://www.avito.ru/ufa/knigi_i_zhurnaly/kniga_busido._kodeks_samuraya_4450270453",
         "img": "https://content.img-gorod.ru/pim/products/images/8c/b5/018f6086-130c-7906-865f-f09ce0b08cb5.jpg?width=0&height=1200&fit=bounds",
         "title": "Бусидо",
         "price": "999руб"
@@ -36,19 +36,19 @@
         "price": "999руб"
     },
     {
-        "url": "https://www.avito.ru/user/4e59a43a162901520f0ac4612abc77bf/profile?src=fs&page_from=from_favorite_sellers",
+        "url": "https://www.avito.ru/ufa/knigi_i_zhurnaly/kniga_stiv_dzhobs._uolter_ayzekson_4450130873",
         "img": "https://content.img-gorod.ru/pim/products/images/e4/92/018fa14d-c241-7bb1-a02b-443ded1ae492.jpg?width=0&height=1200&fit=bounds",
         "title": "Стив Джобс",
         "price": "999руб"
     },
     {
-        "url": "https://www.avito.ru/user/4e59a43a162901520f0ac4612abc77bf/profile?src=fs&page_from=from_favorite_sellers",
+        "url": "https://www.avito.ru/ufa/knigi_i_zhurnaly/arman_dayo_neizvestnyy_napoleon_4322086461",
         "img": "https://content.img-gorod.ru/pim/products/images/9f/31/018fb0b8-865e-75c1-9bf8-f80440b79f31.jpg?width=0&height=1200&fit=bounds",
         "title": "Наполеон",
         "price": "799руб"
     },
     {
-        "url": "https://www.avito.ru/user/4e59a43a162901520f0ac4612abc77bf/profile?src=fs&page_from=from_favorite_sellers",
+        "url": "https://www.avito.ru/ufa/knigi_i_zhurnaly/kniga_wabi_sabi_4225794059",
         "img": "https://content.img-gorod.ru/pim/products/images/4e/6c/018f5dfa-c561-70b9-a6c6-7f1f6cd84e6c.jpg?width=0&height=1200&fit=bounds",
         "title": "Книга Wabi Sabi",
         "price": "699руб"
@@ -58,5 +58,29 @@
         "img": "https://content.img-gorod.ru/pim/products/images/ed/33/018eee0a-7455-7297-9977-b6e8f1eeed33.jpg?width=0&height=1200&fit=bounds",
         "title": "Книга Тестостерон",
         "price": "799руб"
+    },
+    {
+        "url": "https://www.avito.ru/ufa/knigi_i_zhurnaly/paola_volkova_impressionisty_4385668351",
+        "img": "https://img1.labirint.ru/rcimg/6a288f8b369349f7bfa769451249c643/1920x1080/books94/937025/ph_001.jpg?1679052595",
+        "title": "Импрессионисты",
+        "price": "999руб"
+    },
+    {
+        "url": "https://www.avito.ru/ufa/knigi_i_zhurnaly/kniga_vselennaya_zak_skott_4449921830",
+        "img": "https://content.img-gorod.ru/pim/products/images/c2/a2/018f5caa-5c29-7b37-a448-7c438a38c2a2.jpg?width=0&height=1200&fit=bounds",
+        "title": "Вселенная",
+        "price": "999руб"
+    },
+    {
+        "url": "https://www.avito.ru/ufa/knigi_i_zhurnaly/naedine_s_soboy_mark_avreliy_4450427336",
+        "img": "https://content.img-gorod.ru/pim/products/images/54/f6/018f6134-4de1-76fd-ac38-e386a6ae54f6.jpg?width=0&height=1200&fit=bounds",
+        "title": "Наедине с собой",
+        "price": "899"
+    },
+    {
+        "url": "https://www.avito.ru/ufa/knigi_i_zhurnaly/dante_aligeri_bozhestvennaya_komediya_4449970707",
+        "img": "https://content.img-gorod.ru/pim/products/images/db/df/018f5cee-d9b5-7b6a-943b-f59f404cdbdf.jpg?width=0&height=1200&fit=bounds",
+        "title": "Божественная комедия",
+        "price": "999"
     }
 ]
