@@ -89,7 +89,7 @@ input[type="text"] {
 
 /* Адаптивный дизайн для мобильных устройств. было 768 */
 
-@media (max-width: 360px) {
+@media (max-width: 800px) {
     .product-grid {
         grid-template-columns: repeat(2, 1fr);
     }

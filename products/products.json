@@ -15,18 +15,48 @@
         "url": "https://www.avito.ru/user/4e59a43a162901520f0ac4612abc77bf/profile?src=fs&page_from=from_favorite_sellers",
         "img": "https://content.img-gorod.ru/pim/products/images/d9/e4/018f5e40-088f-7bab-8fb0-e888bf33d9e4.jpg?width=0&height=1200&fit=bounds",
         "title": "Никакаих компромисов",
-        "price": "760руб"
+        "price": "799руб"
     },
     {
         "url": "https://www.avito.ru/user/4e59a43a162901520f0ac4612abc77bf/profile?src=fs&page_from=from_favorite_sellers",
         "img": "https://content.img-gorod.ru/pim/products/images/33/8f/018edff9-054a-7e58-82b4-eb66d918338f.jpg?width=0&height=1200&fit=bounds",
         "title": "Леонардо да Винчи",
-        "price": "850руб"
+        "price": "1199руб"
     },
     {
         "url": "https://www.avito.ru/user/4e59a43a162901520f0ac4612abc77bf/profile?src=fs&page_from=from_favorite_sellers",
         "img": "https://content.img-gorod.ru/pim/products/images/8c/b5/018f6086-130c-7906-865f-f09ce0b08cb5.jpg?width=0&height=1200&fit=bounds",
         "title": "Бусидо",
-        "price": "800руб"
+        "price": "999руб"
+    },
+    {
+        "url": "https://www.avito.ru/user/4e59a43a162901520f0ac4612abc77bf/profile?src=fs&page_from=from_favorite_sellers",
+        "img": "https://content.img-gorod.ru/pim/products/images/80/be/018f6093-e225-72c9-9996-73beb52080be.jpg?width=0&height=1200&fit=bounds",
+        "title": "К себе нежно",
+        "price": "999руб"
+    },
+    {
+        "url": "https://www.avito.ru/user/4e59a43a162901520f0ac4612abc77bf/profile?src=fs&page_from=from_favorite_sellers",
+        "img": "https://content.img-gorod.ru/pim/products/images/e4/92/018fa14d-c241-7bb1-a02b-443ded1ae492.jpg?width=0&height=1200&fit=bounds",
+        "title": "Стив Джобс",
+        "price": "999руб"
+    },
+    {
+        "url": "https://www.avito.ru/user/4e59a43a162901520f0ac4612abc77bf/profile?src=fs&page_from=from_favorite_sellers",
+        "img": "https://content.img-gorod.ru/pim/products/images/9f/31/018fb0b8-865e-75c1-9bf8-f80440b79f31.jpg?width=0&height=1200&fit=bounds",
+        "title": "Наполеон",
+        "price": "799руб"
+    },
+    {
+        "url": "https://www.avito.ru/user/4e59a43a162901520f0ac4612abc77bf/profile?src=fs&page_from=from_favorite_sellers",
+        "img": "https://content.img-gorod.ru/pim/products/images/4e/6c/018f5dfa-c561-70b9-a6c6-7f1f6cd84e6c.jpg?width=0&height=1200&fit=bounds",
+        "title": "Книга Wabi Sabi",
+        "price": "699руб"
+    },
+    {
+        "url": "https://www.avito.ru/user/4e59a43a162901520f0ac4612abc77bf/profile?src=fs&page_from=from_favorite_sellers",
+        "img": "https://content.img-gorod.ru/pim/products/images/ed/33/018eee0a-7455-7297-9977-b6e8f1eeed33.jpg?width=0&height=1200&fit=bounds",
+        "title": "Книга Тестостерон",
+        "price": "799руб"
     }
 ]
