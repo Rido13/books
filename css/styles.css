@@ -43,7 +43,7 @@ button:hover {
     gap: 10px;
     margin-left: 100px;
     margin-right: 100px;
-    padding-top: 10px;
+padding-top: 10px;
 }
 /* Карточки товаров */
 .product-card {
@@ -126,7 +126,7 @@ input[type="text"] {
 
 /* Адаптивный дизайн для очень маленьких экранов */
 
-@media (max-width: 480px) {
+@media (max-width: 0px) {
     .product-grid {
         grid-template-columns: repeat(2, 1fr);
     }
