@@ -128,14 +128,35 @@ input[type="text"] {
 
 @media (max-width: 480px) {
     .product-grid {
-        grid-template-columns: repeat(1, 1fr);
+        grid-template-columns: repeat(2, 1fr);
     }
 
     header {
-        align-items: center;
+        flex-direction: column;
+        align-items: top;
+    }
+
+    h1 {
+        margin: 0.5rem 0;
     }
 
     button {
-        padding: 0.5rem;
+        width: 100%;
+        padding: 1rem;
+        font-size: 20px;
+    }
+    input[type='text'] {
+        font-size: inherit;
+        border: none;
+        margin-right: 10px;
+        margin-bottom: 10px;
+        border-radius: 0.5rem;
+        width: 200px;
+        height: 20px;
+        padding: 9px 10px 9px 10px;
+        font-size: 15px;
+        align-self: center;
+        text-align: center;
+
     }
 }
