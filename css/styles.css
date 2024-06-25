@@ -126,7 +126,7 @@ input[type="text"] {
 
 /* Адаптивный дизайн для очень маленьких экранов */
 
-@media (max-width: 0px) {
+@media (max-width: 360px) {
     .product-grid {
         grid-template-columns: repeat(2, 1fr);
     }
