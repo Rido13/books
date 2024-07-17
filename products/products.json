@@ -3,13 +3,13 @@
         "url": "https://www.avito.ru/user/4e59a43a162901520f0ac4612abc77bf/profile?src=fs&page_from=from_favorite_sellers",
         "img": "https://content.img-gorod.ru/pim/products/images/e1/72/018f5dd2-c3ea-73c1-9312-9cef9f79e172.jpg?width=0&height=1200&fit=bounds",
         "title": "Сила воли",
-        "price": "450 руб"
+        "price": "899 руб"
     },
     {
         "url": "https://www.avito.ru/user/4e59a43a162901520f0ac4612abc77bf/profile?src=fs&page_from=from_favorite_sellers",
         "img": "https://content.img-gorod.ru/pim/products/images/78/4f/018f60ad-1585-7fcb-99f4-30c4973e784f.jpg?width=0&height=1200&fit=bounds",
         "title": "Внутренняя опора",
-        "price": "600 руб"
+        "price": "699 руб"
     },
     {
         "url": "https://www.avito.ru/ufa/knigi_i_zhurnaly/kniga_nikakih_kompromissov._kris_voss_4449990816",
@@ -84,12 +84,6 @@
         "price": "999 руб"
     },
     {
-        "url": "https://www.avito.ru/ufa/knigi_i_zhurnaly/bolshaya_kniga_peregovorov._ryzov_igor_4450036614",
-        "img": "https://content.img-gorod.ru/pim/products/images/4d/81/018f61ea-a853-795a-a933-bc99375d4d81.jpg?width=0&height=1200&fit=bounds",
-        "title": "Большая книга преговоров",
-        "price": "999 руб"
-    },
-    {
         "url": "https://www.avito.ru/ufa/knigi_i_zhurnaly/50_strategiy_kotorye_izmenili_istoriyu_4546348434",
         "img": "https://content.img-gorod.ru/pim/products/images/65/14/018f5db8-6369-7b6b-9681-7371fbd26514.jpg?width=0&height=1200&fit=bounds",
         "title": "50 стартегий которые изменили историю",
@@ -98,37 +92,7 @@
     {
         "url": "https://www.avito.ru/ufa/knigi_i_zhurnaly/knigi_4545844791",
         "img": "https://content.img-gorod.ru/pim/products/images/24/f6/018f5e03-626f-75cd-98f4-1cdc331524f6.jpg?width=0&height=1200&fit=bounds",
-        "title": "Коби Брайнт",
+        "title": "The Mamba Mentality. Философия моей игры. Коби Брайант",
         "price": "999 руб"
     },
-    {
-        "url": "https://www.avito.ru/ufa/knigi_i_zhurnaly/maykl_dzhordan._ego_vozdushestvo_4545872578",
-        "img": "https://content.img-gorod.ru/pim/products/images/e7/f1/018f5d84-0cc0-7699-968a-3149b33be7f1.jpg?width=0&height=1200&fit=bounds",
-        "title": "Майкл Джордан",
-        "price": "999 руб"
-    },
-    {
-        "url": "https://www.avito.ru/ufa/knigi_i_zhurnaly/the_book._kak_sozdat_tsivilizatsiyu_zanovo_4545622916",
-        "img": "https://content.img-gorod.ru/pim/products/images/0c/80/018f617b-2327-7c9a-9637-d487290c0c80.jpg?width=0&height=1200&fit=bounds",
-        "title": "TheBook. Как создать цивилизацию заново",
-        "price": "1999 руб"
-    },
-    {
-        "url": "https://www.avito.ru/ufa/knigi_i_zhurnaly/kventin_tarantino._kinospekulyatsii_4546314293",
-        "img": "https://content.img-gorod.ru/pim/products/images/7b/7c/018f6141-beaa-7e63-8453-890d07977b7c.jpg?width=0&height=1200&fit=bounds",
-        "title": "Квентин Тарантино. Киноспекуляции",
-        "price": "799 руб"
-    },
-    {
-        "url": "https://www.avito.ru/ufa/knigi_i_zhurnaly/kniga_mark_avreliy_opus_magnum_4545785440",
-        "img": "https://content.img-gorod.ru/pim/products/images/45/6e/018f5f65-d9b4-7a5b-b66a-8f543d23456e.jpg?width=0&height=1200&fit=bounds",
-        "title": "Наедине с собой. Размышления. Марк Аврелий",
-        "price": "999 руб"
-    },
-    {
-        "url": "https://www.avito.ru/profile/items/active/all?s=4",
-        "img": "https://content.img-gorod.ru/pim/products/images/cb/ba/018f6126-837d-70ec-a986-75ab8c0acbba.jpg?width=0&height=1200&fit=bounds",
-        "title": "Chanell",
-        "price": "1299 руб"  
-    }
-]
+
